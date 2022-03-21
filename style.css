@@ -1,5 +1,19 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+
+h1 {text-align: center;
+    color: black;
+    }
+nav{text-align: center;}
+a  {background-color: grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: smaller}
+
+body {text-align:center;
+      width: 100%;
+      height: 100%;
+      margin: 0;}
+
+p {text-align:center;
+   width: 800px;
+
 }
